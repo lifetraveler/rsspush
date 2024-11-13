@@ -1,3 +1,6 @@
+# 魔改
+- 按照说明修改后支持某一条订阅禁用，而不用删除，只需要配置间隔为 -1 即可。
+
 # RSSPush
 
 RSSPush 是一款 Web 应用，它可以监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。
