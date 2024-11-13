@@ -1,3 +1,4 @@
+*需要重新编译，或者删掉 app.js 里面的加载build目录*
 
 ```bash
 # 进入docker环境内部
